@@ -1,2 +1,2 @@
 # git_demo
-Author - pooja
+Author - Pooja Bichukale
